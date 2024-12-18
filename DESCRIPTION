@@ -3,7 +3,7 @@ Type: Package
 Title: How to build a package
 Version: 0.1.0
 Author: Maria Antoniacci
-Maintainer: Package maintainer <maria.antoniacci3#studio.unibo.it>
+Maintainer: The package maintainer <maria.antoniacci3@studio.unibo.it>
 Description: This package is using simple functions for a first development example
 Encoding: UTF-8
 Language: en-GB
