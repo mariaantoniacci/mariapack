@@ -7,8 +7,8 @@ Maintainer: Package maintainer <maria.antoniacci3#studio.unibo.it>
 Description: This package is using simple functions for a first development example
 Encoding: UTF-8
 Language: en-GB
-License: GPL (>=2)
-Depends: R (>=4.0.0)
+License: GPL(>=2)
+Depends: R(>=4.0.0)
 Imports: devtools
 Suggests: knitr
 Config/testthat/edition: 1
