@@ -12,12 +12,3 @@ simplestuff <- function(x,y) {
   z=x+y
 return(z)
   }
-
-# try it
-simplestuff(1,2)
-
-# or i'll assign to obj the elements
-a <- 1
-b <- 2
-
-simplestuff(a,b)
